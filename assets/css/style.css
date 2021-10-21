@@ -1,17 +1,23 @@
-h1 {text-align: center;}
-p {text-align: center;}
-h2 {text-align: center;}
 
-body {background-color: #FFBD3F;}
+
+
 body{
+    background-color: #FFBD3F;
     color:#242299;
 
     font-family: 'Ubuntu', sans-serif;
+    text-align: center;
 }
 
-h1{color:#242299}
 
+h1{font-family:'Mukta', sans-serif;
+    font-weight: 800;
+color:#242299
 
+}
 
-h1{font-family:'Mukta', sans-serif;}
+.about-img{width: 400px;}
 
+.bi{font-size: 2em;}
+
+.nav a{color: white;}
