@@ -2,22 +2,40 @@
 
 
 body{
-    background-color: #FFBD3F;
-    color:#242299;
+    background-color: #FFB434;
+    color:#3400B8;
 
     font-family: 'Ubuntu', sans-serif;
     text-align: center;
 }
 
 
-h1{font-family:'Mukta', sans-serif;
+h1{
+    padding-top: 30px;
+    font-family:'Mukta', sans-serif;
     font-weight: 800;
-color:#242299
+color:#3400B8
 
 }
 
+h2{
+    font-weight: 600;
+}
+
+p{
+    padding-bottom: 30px;
+}
+
+
 .about-img{width: 400px;}
 
-.bi{font-size: 2em;}
+.powerful-poet{width: 800px;}
+
+.bi{font-size: 2em;
+color:blueviolet;}
 
 .nav a{color: white;}
+
+@media (max-width: 450px) {h1{font-size: 2em;}
+
+}
