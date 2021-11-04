@@ -1,0 +1,54 @@
+body{
+    color: #8e8e8e;
+    padding:15%;
+    font-family: 'Roboto Mono';
+    
+}
+
+#blockOne{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+.mark{
+    background-color: #A8FF00 ;
+    font-style: italic;
+ 
+}
+
+li img{
+    width: 100%;
+}
+
+
+.mark2{
+    background-color: black;
+    color: white;
+}
+
+#blockTwo{
+    margin-left:10%;
+    margin-right: 10%;
+}
+
+#blockThree{
+    margin-left: 33%;
+    margin-right: 33%;
+}
+.capStyl{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+
+    font-family: 'Montserrat', sans-serif;
+}
+#chartBlock{
+    margin-left: 20%;
+    margin-right: 20%;
+    list-style-type: none;
+}
+
+@media only screen and (min-width: 375px) and (max-width: 775px){
+
+    }
